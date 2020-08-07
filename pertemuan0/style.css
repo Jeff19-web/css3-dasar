@@ -5,4 +5,10 @@ div {
     margin: 40px auto;
     background-color: salmon;
     border-radius: 150px;
+    text-align: center;
+    line-height: 300px;
+    color: #fff;
+    font-size: 32px;
+    font-weight: bold;
+
 }
